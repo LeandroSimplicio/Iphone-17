@@ -28,10 +28,10 @@
 
 ## **📸 Demonstração**
 
-*(Adicione prints ou GIFs aqui)*  
+
 Sugestão:  
-- <img src="/public/screenshot-home.png"> 
-- <img src="/public/colors-preview.gif"> 
+- <img src="/public/img/logo.jpg"> 
+- <img src="/public//img/site1.jpg"> 
 ---
 
 ## **🎯 Funcionalidades**
