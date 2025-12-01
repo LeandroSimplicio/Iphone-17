@@ -2,17 +2,15 @@ function Hero() {
   return (
     <section className="relative h-screen overflow-hidden bg-black">
       <div className="absolute inset-0 z-0 flex justify-center items-center">
-        
-        <img 
-          src="/img/hero.jpg" 
+        <img
+          src="/img/hero.jpg"
           alt="iPhone 17 Pro"
           className="
             object-contain
             mx-auto
             h-auto
 
-            max-w-[390px]      /* celulares */
-            md:max-w-[768px]   /* tablets e desktop */
+            
           "
         />
 
